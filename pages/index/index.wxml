@@ -1,0 +1,36 @@
+<view class="container">
+ <view class="title">
+  Myjob
+ </view>
+ <view class="process">
+    <view class="search">
+        <input type="text" placeholder="Search Name SerialNumber.."/>
+    </view>
+ </view>
+  <view class="list">
+    <view class="profile_list">
+      <image class="img" src="../../images/account.png"></image>
+    </view>
+    <view class="profile_list">
+      <image class="img" src="../../images/account.png"></image>
+    </view>
+    <view class="profile_list">
+      <image class="img" src="../../images/account.png"></image>
+    </view>
+    <view class="profile_list">
+      <image class="img" src="../../images/account.png"></image>
+    </view>
+    <view class="profile_list">
+      <image class="img" src="../../images/account.png"></image>
+    </view>
+    <view class="profile_list">
+      <image class="img" src="../../images/account.png"></image>
+    </view>
+    <view class="profile_list">
+      <image class="img" src="../../images/account.png"></image>
+    </view>
+    <view class="profile_list">
+      <image class="img" src="../../images/account.png"></image>
+    </view>
+  </view>
+</view>
